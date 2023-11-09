@@ -1,0 +1,18 @@
+* {
+    background-color:white ;
+}
+
+#divheader {
+background-color: rgb(75, 166, 75);
+}
+header {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    margin-top: 50px;
+    align-items: center;
+    background-color: rgb(0, 128, 34);
+}
